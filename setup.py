@@ -9,7 +9,7 @@ setup(
   author = 'GOSHROW',                   
   author_email = 'goshrow@gmail.com',      
   url = 'https://github.com/GOSHROW/genalgo',   
-  download_url = 'https://github.com/GOSHROW/genalgo/archive/v1.0.tar.gz',    
+  download_url = 'https://github.com/GOSHROW/genalgo/archive/v1.0-alpha.tar.gz',    
   keywords = ['python', 'genetic algorithm', 'GA', 'algorithms', 'computational intelligence', 'CI'],   
   install_requires=[            
           'secrets',
