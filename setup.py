@@ -1,8 +1,8 @@
 
 from distutils.core import setup
 setup(
-  name = 'GeneticA',         
-  packages = ['GeneticA'],   
+  name = 'genalgo',         
+  packages = ['genalgo'],   
   version = '1.0',      
   license='MIT',        
   description = 'Basic Pythonic Implementation of Genetic Algorithm',   
